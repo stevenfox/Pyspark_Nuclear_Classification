@@ -1,4 +1,4 @@
-# Pyspark_Nuclear_Classification
+# Two distributed models in Apache spark that classify states of a nuclear reactor
 
 This notebook illustrates two different machine learning distributed models that classify the conditions of nuclear reactor. Linear regression model is presented first and following the Gradient boosted tree model. The models were developed in Colab environment with the advantage of PySpark ML library. Additionally, helper methods and libraries were utilised for implementing various operations in data pre-processing that are going to be mentioned in the following subsections.
 
